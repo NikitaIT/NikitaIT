@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**NikitaIT/NikitaIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Familiar with the internals of:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏛️ [AgGrid](https://github.com/ag-grid/ag-grid) - Table engine, like [jq-datatables](https://datatables.net/)
+- 📌 [Simonwep/selection](https://github.com/Simonwep/selection) - Frame selection
+- 🔑 [KeeWeb](https://github.com/keeweb/keeweb) - Cross-platform pswd manager with cool UI
+- 🔭 [Nools](https://github.com/noolsjs/nools) - Rule engine like [Drools](https://www.drools.org/)
+- 📰 [NetlifyCMS](https://github.com/netlify/netlify-cms) - Git-based CMS for [JAM](https://jamstack.org/)
+- ⚠️ [Automerge](https://github.com/automerge/automerge) - Sync users app state
+- ✏️ [ProseMirror](https://github.com/ProseMirror/prosemirror) - Immutable WYSIWYM editor
+- 📁 [RemoteStorage](https://github.com/remotestorage/remotestorage.js) - Sync user Cloud Disk with IndexedDB
+- 📚 [Docusaurus](https://github.com/facebook/docusaurus) - Build project docs
