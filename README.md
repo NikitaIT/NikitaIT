@@ -12,6 +12,12 @@ Familiar with the internals of:
 - 📁 [RemoteStorage][rs] - Sync user Cloud Disk with IndexedDB
 - 📚 [Docusaurus][ds] - Build project docs
 - 🔖 [CommonTags][ct] - String templates (runtime)
+- 🚦 [VueRouter][vr] - App router
+- 📱 [HeadlessUI][hui] - Renderless UI kit
+- 🀄 [ElementUI][el] - Ui kit
+- 🌏 [MaterialUI][mui] - Ui kit
+- 👢 [Bootstrap][bs] - Js/Css lib
+- 💥 [FocusTrap][ftr] - Spin Focus aria lib
 
 [ag]: https://github.com/ag-grid/ag-grid
 [am]: https://github.com/automerge/automerge
@@ -26,3 +32,9 @@ Familiar with the internals of:
 [pm]: https://github.com/ProseMirror/prosemirror
 [jam]: https://jamstack.org/
 [kw]: https://github.com/keeweb/keeweb
+[vr]: https://github.com/vuejs/vue-router-next
+[hui]: https://github.com/tailwindlabs/headlessui
+[el]: https://element-plus.org/#/en-US
+[mui]: https://material.angular.io/
+[bs]: https://bootstrap-3.ru/
+[ftr]: https://github.com/focus-trap/focus-trap
