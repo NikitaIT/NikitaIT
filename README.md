@@ -26,7 +26,9 @@ Blockchains:
 - 💥 [VeChain][vechain] - SDK for VeChain blockchain (VET)
 - 💥 [Cosmos][cosm] - SDK for Cosmos blockchain
 - 💥 [Polkadot][polkadot_api] - SDK for Polkadot blockchain
-- 💥 [Tron][tronweb] - SDK for Tron blockchain (TRN)
+- 💥 [Tron Web][tronweb] - SDK for Tron blockchain (TRN)
+- 💥 [Zilliqa JS][Zilliqa] - SDK for Zilliqa blockchain
+- 💥 [Rosetta][Rosetta] - any blockchain API integration client
 
 [ag]: https://github.com/ag-grid/ag-grid
 [am]: https://github.com/automerge/automerge
@@ -54,3 +56,5 @@ Blockchains:
 [tronweb]: https://github.com/tronprotocol/tronweb
 [web3j]: https://github.com/web3j/web3j
 [ethereumjs]: https://github.com/ethereumjs/ethereumjs-monorepo
+[Zilliqa]: https://github.com/Zilliqa/zilliqa-js#readme
+[Rosetta]: https://github.com/dfinity/rosetta-client
