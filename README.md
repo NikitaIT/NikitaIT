@@ -19,6 +19,15 @@ Familiar with the internals of:
 - 👢 [Bootstrap][bs] - Js/Css lib
 - 💥 [FocusTrap][ftr] - Spin Focus aria lib
 
+Blockchains:
+
+- 💥 [BitcoinJ][bitcoinj] - SDK for Bitcoin protocol based blockchains (BTC, BCH, XEC)
+- 💥 [Ethereum Web3j][web3j] - SDK for Ethereum based blockchains
+- 💥 [VeChain][vechain] - SDK for VeChain blockchain (VET)
+- 💥 [Cosmos][cosm] - SDK for Cosmos blockchain
+- 💥 [Polkadot][polkadot_api] - SDK for Polkadot blockchain
+- 💥 [Tron][tronweb] - SDK for Tron blockchain (TRN)
+
 [ag]: https://github.com/ag-grid/ag-grid
 [am]: https://github.com/automerge/automerge
 [ct]: https://github.com/zspecza/common-tags
@@ -38,3 +47,9 @@ Familiar with the internals of:
 [mui]: https://material.angular.io/
 [bs]: https://bootstrap-3.ru/
 [ftr]: https://github.com/focus-trap/focus-trap
+[bitcoinj]: https://github.com/bitcoinj/bitcoinj
+[vechain]: https://github.com/vechain/connex
+[cosm]: https://github.com/cosmos/cosmjs
+[polkadot_api]: https://github.com/polkadot-js/api
+[tronweb]: https://github.com/tronprotocol/tronweb
+[web3j]: https://github.com/web3j/web3j
