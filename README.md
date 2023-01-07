@@ -22,7 +22,7 @@ Familiar with the internals of:
 Blockchains:
 
 - 💥 [BitcoinJ][bitcoinj] - SDK for Bitcoin protocol based blockchains (BTC, BCH, XEC)
-- 💥 [Ethereum Web3j][web3j] - SDK for Ethereum based blockchains
+- 💥 [Web3j][web3j] and [EthereumJS][ethereumjs] - SDK for Ethereum based blockchains
 - 💥 [VeChain][vechain] - SDK for VeChain blockchain (VET)
 - 💥 [Cosmos][cosm] - SDK for Cosmos blockchain
 - 💥 [Polkadot][polkadot_api] - SDK for Polkadot blockchain
@@ -53,3 +53,4 @@ Blockchains:
 [polkadot_api]: https://github.com/polkadot-js/api
 [tronweb]: https://github.com/tronprotocol/tronweb
 [web3j]: https://github.com/web3j/web3j
+[ethereumjs]: https://github.com/ethereumjs/ethereumjs-monorepo
