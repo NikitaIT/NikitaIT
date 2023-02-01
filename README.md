@@ -16,8 +16,10 @@ Familiar with the internals of:
 - 📱 [HeadlessUI][hui] - Renderless UI kit
 - 🀄 [ElementUI][el] - Ui kit
 - 🌏 [MaterialUI][mui] - Ui kit
+- 💥 [Tailwind CSS][tw] - Best solution for disign tokens, [Styled components][styled-components] second way, [BEM][bem] legacy way
 - 👢 [Bootstrap][bs] - Js/Css lib
 - 💥 [FocusTrap][ftr] - Spin Focus aria lib
+- 💥 [I/O ts][io-ts_fp-ts], OpenApi schema validator, [yup][yup] and [Lossless Json][lossless-json] - IO decoding/encoding (I/O ts preferred)
 
 Blockchains:
 
@@ -58,3 +60,9 @@ Blockchains:
 [ethereumjs]: https://github.com/ethereumjs/ethereumjs-monorepo
 [Zilliqa]: https://github.com/Zilliqa/zilliqa-js#readme
 [Rosetta]: https://github.com/dfinity/rosetta-client
+[yup]: https://github.com/jquense/yup
+[io-ts_fp-ts]: https://github.com/gcanti/io-ts
+[lossless-json]: https://www.npmjs.com/package/lossless-json
+[tw]: https://tailwindcss.com/
+[styled-components]: https://styled-components.com/
+[bem]: https://en.bem.info/
