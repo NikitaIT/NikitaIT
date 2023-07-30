@@ -8,7 +8,7 @@ Familiar with the internals of:
 - 🔭 [Nools][ns] - Rule engine like [Drools][dr]
 - 📰 [NetlifyCMS][ncms] - Git-based CMS for [JAM][jam]
 - ⚠️ [Automerge][am] - Sync users app state
-- ✏️ [ProseMirror][pm] - Immutable WYSIWYM editor
+- ✏️ [ProseMirror][pm], [SlateJS][slate], [PlateJS][platejs]  - Immutable WYSIWYM editor
 - 📁 [RemoteStorage][rs] - Sync user Cloud Disk with IndexedDB
 - 📚 [Docusaurus][ds] - Build project docs
 - 🔖 [CommonTags][ct] - String templates (runtime)
@@ -66,3 +66,5 @@ Blockchains:
 [tw]: https://tailwindcss.com/
 [styled-components]: https://styled-components.com/
 [bem]: https://en.bem.info/
+[slate]: https://github.com/ianstormtaylor/slate
+[platejs]: https://platejs.org/
