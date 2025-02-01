@@ -32,6 +32,16 @@ Blockchains:
 - 💥 [Zilliqa JS][Zilliqa] - SDK for Zilliqa blockchain
 - 💥 [Rosetta][Rosetta] - any blockchain API integration client
 
+Providers:
+- 💥 [BitGo][bitgo] - The all-in-one token management platform
+- 💥 [Simplex][simplex] - Fiat on-ramp
+- 💥 [NowPayments][nowpayments] - Crypto payments
+- 💥 [Wert][wert] - Crypto payments
+
+[wert]: https://wert.io/
+[nowpayments]: https://nowpayments.io/
+[simplex]: https://www.simplex.com/
+[bitgo]: https://www.bitgo.com/
 [ag]: https://github.com/ag-grid/ag-grid
 [am]: https://github.com/automerge/automerge
 [ct]: https://github.com/zspecza/common-tags
