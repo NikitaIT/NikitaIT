@@ -38,6 +38,11 @@ Providers:
 - 💥 [NowPayments][nowpayments] - Crypto payments
 - 💥 [Wert][wert] - Crypto payments
 
+Databases:
+- [PostgreSQL](https://www.postgresql.org/), [Mysql](https://www.mysql.com/), [MSSQL](https://www.microsoft.com/en-us/sql-server/) - RDMS
+- [DynamoDB](https://aws.amazon.com/ru/dynamodb/), [ScyllaDB](https://www.scylladb.com/) - like Cassandra
+- [Clickhouse](https://clickhouse.com/) - Column-oriented OLAP
+
 [wert]: https://wert.io/
 [nowpayments]: https://nowpayments.io/
 [simplex]: https://www.simplex.com/
