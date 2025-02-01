@@ -33,15 +33,25 @@ Blockchains:
 - 💥 [Rosetta][Rosetta] - any blockchain API integration client
 
 Providers:
+
 - 💥 [BitGo][bitgo] - The all-in-one token management platform
 - 💥 [Simplex][simplex] - Fiat on-ramp
 - 💥 [NowPayments][nowpayments] - Crypto payments
 - 💥 [Wert][wert] - Crypto payments
 
 Databases:
+
 - [PostgreSQL](https://www.postgresql.org/), [Mysql](https://www.mysql.com/), [MSSQL](https://www.microsoft.com/en-us/sql-server/) - RDMS
 - [DynamoDB](https://aws.amazon.com/ru/dynamodb/), [ScyllaDB](https://www.scylladb.com/) - like Cassandra
 - [Clickhouse](https://clickhouse.com/) - Column-oriented OLAP
+
+MQ:
+
+- [Kafka](https://kafka.apache.org/), [Redis](https://redis.io/), [SQS](https://aws.amazon.com/ru/sqs/), [SNS](https://aws.amazon.com/ru/sns/)
+
+Multiplayer hosting:
+
+- [AWS Game Lift](https://aws.amazon.com/ru/gamelift/)
 
 [wert]: https://wert.io/
 [nowpayments]: https://nowpayments.io/
