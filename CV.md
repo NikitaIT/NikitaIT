@@ -35,13 +35,13 @@ MSc in Computer and Information Systems Security
 
 Built the entire technical foundation for a gaming platform with real-money tournament infrastructure and crypto-native payments.
 
-- **TICO token** on [CoinMarketCap](https://coinmarketcap.com/currencies/funtico/), [CoinGecko](https://www.coingecko.com/en/coins/funtico), [MEXC](mexc.com/exchange/TICO_USDT), [Gate.io](https://www.gate.com/ru/trade/TICO_USDT), [BitMart](https://www.bitmart.com/en-US/trade/TICO_USDT) and [Uniswap](https://app.uniswap.org/explore/tokens/avalanche/0xedf647326007e64d94b0ee69743350f3736e392c)
+- **TICO token** on [CoinMarketCap](https://coinmarketcap.com/currencies/funtico/), [CoinGecko](https://www.coingecko.com/en/coins/funtico), [MEXC](https://mexc.com/exchange/TICO_USDT), [Gate.io](https://www.gate.com/ru/trade/TICO_USDT), [BitMart](https://www.bitmart.com/en-US/trade/TICO_USDT) and [Uniswap](https://app.uniswap.org/explore/tokens/avalanche/0xedf647326007e64d94b0ee69743350f3736e392c)
 - [Ory Hydra & Kratos](https://www.ory.com/) (IDP), [Verisoul](https://verisoul.ai) (KYC), [Hubspot](https://www.hubspot.com/) (CRM) to support **90k shareholders**
 - [Bitgo](https://www.bitgo.com/) (Custody), [Sumsub](https://sumsub.com/) (KYC), [Scorechain](https://www.scorechain.com/) (KYT) to secure **$160M in assets**
 - [Simplex](https://www.simplex.com/), [NowPayments](https://nowpayments.io/), [Wert](https://wert.io/) and [Avalanche](https://www.mexc.com/en-NG/news/75835) partnership for **fiat & crypto payments**
 - [Porter](https://porter.run/), [Vercel](https://vercel.com/) and [Cloudflare](https://www.cloudflare.com/en-gb/) for **7 websites, 48 AWS services and 144 code repositories**
 - [Amazon GameLift](https://aws.amazon.com/gamelift/) and [EdgeGap](https://edgegap.com/) for **multiplayer**
-- [Miror](https://mirror-networking.com/) and [Fish Networking](https://fish-networking.com/) for **tournaments without [gambling licence](https://www.gamblingcommission.gov.uk/licensees-and-businesses/guide/page/skill-based-prize-games)**
+- [Mirror](https://mirror-networking.com/) and [Fish Networking](https://fish-networking.com/) for **tournaments without [gambling licence](https://www.gamblingcommission.gov.uk/licensees-and-businesses/guide/page/skill-based-prize-games)**
 - personal contribution **1M LOC in 6K commits**
 
 **Founding Engineer**
@@ -53,13 +53,13 @@ Early-stage execution at speed in a top-tier AI-native startup.
 - First **hires**; First **MVP**; First **Product-Market Fit**
 - _Startup backed by [Nat Friedman and Daniel Gross](https://aigrant.com/)_
 
-**Blockchain Senior SWE - L5**
+**L5 Blockchain Senior SWE**
 ~ [Visa](https://corporate.visa.com/en/solutions/crypto/stablecoins.html)
 ~ 07/2023 - 11/2023
 
 Contributed to Visa's crypto and stablecoin initiatives.
 
-**Blockchain Senior SWE - L6**
+**L6 Blockchain Senior SWE**
 ~ [Capital.com / Currency.com](https://currency.com/)
 ~ 06/2022 - 06/2023
 
@@ -69,24 +69,24 @@ Architected multi-chain security infrastructure for the exchange with the [faste
 - [Microservice](https://microservices.io/patterns/microservices.html) [domain-oriented](https://thedomaindrivendesign.io/distilling-domain/) [fault-tolerant](https://microservices.io/patterns/data/transactional-outbox.html) architecture for **5 blockchain networks** ([VeChain](https://github.com/vechain/connex), [Cosmos](https://github.com/cosmos/cosmjs), [Polkadot](https://github.com/polkadot-js/api), [Tron](https://github.com/tronprotocol/tronweb), and [Zilliqa](https://github.com/Zilliqa/zilliqa-js)).
 - [Chainalysis](https://demo.chainalysis.com/request-a-demo/), [Crystal](https://crystalblockchain.com/), and [Coinfirm](https://www.coinfirm.com/) for **[KYC AML/CFT](https://en.wikipedia.org/wiki/Know_your_customer) compliance at lowest cost**
 - 150+ smart contract security audits for **CEX compliance audit**
-- Wrote and deployed Solidity smart contracts accross **multiple EVM networks**
+- Crafted and deployed Solidity smart contracts across **multiple EVM networks**
 
 **CTO**
 ~ [Targeting Platform](https://vtargete.ru/)
 ~ 02/2019 - 06/2022
 
-Built and scaled a B2B SaaS product from zero to monopoly.
+Started and scaled a B2B SaaS product from zero to monopoly.
 
 - First **hires**; First **MVP**; First **Product-Market Fit**
 - Product had **25k DAU** on **free tier** and **3k DAU** on **$5 subscription** with **$1k expenses**
 - Product that everyone wants with **85% DAU/MAU rate**
-- On scale of **1kk writes per second**
+- At scale of **1M writes per second**
 
 **Senior Software Engineer**
 ~ [BaltInfoCom](https://baltinfocom.ru/BigData#en)
 ~ 09/2018 - 04/2019
 
-Built [Palantir](https://www.palantir.com/)-style OSINT tooling for **government-scale graph intelligence**
+Implemented [Palantir](https://www.palantir.com/)-style OSINT tooling for **government-scale graph intelligence**
 
 - Transformed **21-person team into 4 Scrum teams**, doubling delivery frequency
 - [Facebook crawler](https://github.com/NikitaIT/facebook-crawling-nightmare) for **large-scale social graph extraction**
@@ -101,7 +101,7 @@ Built [Palantir](https://www.palantir.com/)-style OSINT tooling for **government
 
 Where I learned what good looks like — mature Scrum, DDD, user interviews and real cross-team collaboration.
 
-- [Homework](https://homework.ru), [Yougrade](https://yougrade.ru), [HW](https://play.google.com/store/apps/details?id=com.hmwk.HomeWork), [Sciterm](http://sciterm.ru), [Myknow](https://myknow.ru) and **20+ landing pages** for EdTech portfolio
+- [Homework](https://homework.ru), [Yougrade](https://yougrade.ru), [HW](https://play.google.com/store/apps/details?id=com.hmwk.HomeWork), [Sciterm](https://sciterm.ru), [Myknow](https://myknow.ru) and **20+ landing pages** for EdTech portfolio
 - Custom CRM/BPMS/CMS with **DDD**
 - Automated A/B testing for sales funnels — **+14% sales in first month**
 - Automated **payroll, PDF reports, receipts and email workflows**
@@ -119,7 +119,7 @@ Where I learned what good looks like — mature Scrum, DDD, user interviews and 
 ~ 09/2015 - 08/2017
 
 - Wrote custom software solutions including bachelor's dissertations in programming
-- Built **10-15 websites**
+- Created **10-15 websites**
 
 **Physics Tutor**
 ~ self-employed
@@ -133,7 +133,7 @@ Where I learned what good looks like — mature Scrum, DDD, user interviews and 
 ~ 2019 - Present
 
 - [Translated WebGL lessons](https://webglfundamentals.org/) with [Greggman](https://github.com/greggman) - **most popular learning resource for graphics devs**
-- Started [Youtube channel](https://www.youtube.com/@CouchProgrammer/shorts) with **1M views**.
+- Started [Youtube channel](https://www.youtube.com/@CouchProgrammer/shorts) with **1M views**
 
 **[Microsoft Student Partner](https://studentambassadors.microsoft.com/en-en)**
 ~ Microsoft
@@ -146,9 +146,8 @@ Where I learned what good looks like — mature Scrum, DDD, user interviews and 
 ~ 2016
 
 Developed an application for cross-publishing for conferences:
-
-- [HolyJS](https://holyjs.ru/en/), [JPoint](https://jpoint.ru/en/), [Heisenbug](https://heisenbug.ru/en/), [.NEXT](https://dotnext.ru/en/)
-  , [Joker](https://jokerconf.com/en/archive/), [C++ Conf](https://cppconf.ru/en/archive/)
+  - [HolyJS](https://holyjs.ru/en/), [JPoint](https://jpoint.ru/en/), [Heisenbug](https://heisenbug.ru/en/), [.NEXT](https://dotnext.ru/en/)
+, [Joker](https://jokerconf.com/en/archive/), [C++ Conf](https://cppconf.ru/en/archive/)
 
 ## Code Mentoring
 
@@ -164,6 +163,7 @@ Developed an application for cross-publishing for conferences:
 
 - Provided consulting for mobile document management application backend
 - Technologies: NestJS, MongoDB, TypeScript
+
 
 ## Certifications
 
@@ -243,17 +243,17 @@ Developed an application for cross-publishing for conferences:
 ~ 08/2025 - 08/2025
 
 - C#, .NET Core, Unity
-- [Miror](https://mirror-networking.com/) and [Fish Networking](https://fish-networking.com/)
+- [Mirror](https://mirror-networking.com/) and [Fish Networking](https://fish-networking.com/)
 - Fastify, NodeJS
 
-**[Funtico GameDev platform](http://developers.funtico.com/)**
+**[Funtico GameDev platform](https://developers.funtico.com/)**
 ~ Funtico
 ~ 10/2025 - 01/2026
 
 - Golang, PostgreSQL
 - NodeJS, React, TypeScript, Tailwind
 
-**[Funtico Gameloop](https://gameloop.funtico.com/)**
+**[Funtico Gameloop](https://gameloop.funtico.com/)** 
 ~ [Avalanche](https://www.avax.network/)
 ~ 09/2025 - 10/2025
 
@@ -267,12 +267,13 @@ Developed an application for cross-publishing for conferences:
 - Golang
 - NextJS, React, TypeScript, Tailwind
 
-**[Funtico Sports](https://sports.funtico.com/)**
+**[Funtico Sports](https://sports.funtico.com/)** 
 ~ [FIFA](https://www.fifa.com/)
 ~ 08/2025 - 09/2025
 
 - PHP, Laravel
 - React, TypeScript
+
 
 **[Funtico OnRamp](https://sdk-shop-typescript.vercel.app/)**
 ~ Funtico
@@ -297,7 +298,7 @@ Developed an application for cross-publishing for conferences:
 ~ Funtico
 ~ 01/2025 - 02/2025
 
-- [ERC20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/) token on [CoinMarketCap](https://coinmarketcap.com/currencies/funtico/), [CoinGecko](https://www.coingecko.com/en/coins/funtico), [MEXC](mexc.com/exchange/TICO_USDT), [Gate.io](https://www.gate.com/ru/trade/TICO_USDT), [BitMart](https://www.bitmart.com/en-US/trade/TICO_USDT) and [Uniswap](https://app.uniswap.org/explore/tokens/avalanche/0xedf647326007e64d94b0ee69743350f3736e392c)
+- [ERC20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/) token on [CoinMarketCap](https://coinmarketcap.com/currencies/funtico/), [CoinGecko](https://www.coingecko.com/en/coins/funtico), [MEXC](https://mexc.com/exchange/TICO_USDT), [Gate.io](https://www.gate.com/ru/trade/TICO_USDT), [BitMart](https://www.bitmart.com/en-US/trade/TICO_USDT) and [Uniswap](https://app.uniswap.org/explore/tokens/avalanche/0xedf647326007e64d94b0ee69743350f3736e392c)
 - PHP, Laravel
 - React, TypeScript
 
@@ -342,6 +343,7 @@ Developed an application for cross-publishing for conferences:
 - [ERC-721](https://en.wikipedia.org/wiki/ERC-721) token
 - Solidity, NodeJS
 
+
 **Funtico Accounting**
 ~ Funtico
 ~ 03/2024 - 09/2024
@@ -349,14 +351,16 @@ Developed an application for cross-publishing for conferences:
 - [Bitgo](https://www.bitgo.com/) (Custody), [Sumsub](https://sumsub.com/) (KYC), [Scorechain](https://www.scorechain.com/) (KYT)
 - NodeJS, Fastify, TypeScript, PostgreSQL
 
+
 **[The Next Frontier of Web3 Gaming](https://about.funtico.com/)**
 ~ Funtico
 ~ 02/2024 - 03/2024
 
 - NextJS, React, TypeScript, Tailwind
 
+
 **[jace.ai](https://jace.ai/)** (Email drafts)
-~ ZetaLabs
+~ Zeta Labs
 ~ 11/2023 - 02/2024
 
 - Python, FastAPI
@@ -404,7 +408,9 @@ Developed an application for cross-publishing for conferences:
 
 - Apache Kafka, Cryptography, TypeScript, Node.js
 
-**Targeting platform**
+
+
+**Targeting platform** 
 ~ [vTargete.ru](https://vtargete.ru/)
 ~ 02/2019 - 06/2022
 
@@ -477,7 +483,7 @@ Domain driven design, LEARN(Agile). Interacted with all employees of the company
 - DDD, C#, MSSQL, NHibernate
 - ECMAScript 5, jQuery, HTML, SCSS
 
-**[Homework](https://homework.ru), [Yougrade](https://yougrade.ru), [Sciterm](http://sciterm.ru), [Myknow](https://myknow.ru), 20+ landing pages** (SEO-optimized websites)
+**[Homework](https://homework.ru), [Yougrade](https://yougrade.ru), [Sciterm](https://sciterm.ru), [Myknow](https://myknow.ru), 20+ landing pages** (SEO-optimized websites)
 ~ [Homework](https://homework.ru)
 ~ 08/2017 - 09/2018
 
@@ -497,7 +503,7 @@ Domain driven design, LEARN(Agile). Interacted with all employees of the company
 - PHP, MySQL, Symfony, Twig
 - JavaScript, jQuery, HTML, CSS
 
-**[Artist's promo](https://nikitait.github.io/xDontStopMeNow/)**
+**[Artist's promo](https://nikitait.github.io/xDontStopMeNow/)** 
 ~ [xdontstopmenow](https://www.instagram.com/xdontstopmenow/?hl=fr)
 ~ 2016
 
@@ -507,13 +513,14 @@ Domain driven design, LEARN(Agile). Interacted with all employees of the company
 
 - C#, Windows Forms
 
+
 **MuseumGate. Bluetooth navigation with beacons**
 ~ [EPAM](https://www.epam.com/)
 ~ 2016
 
 Java Android and C# WinPhone. More about [beacon BLE technology](https://kontakt.io/what-is-a-beacon/).
-
 - [Project presentation](https://www.youtube.com/watch?v=gVKDU043EWI&index=3&list=PLcV0FNC_1srD3xXbBG9VIHRdKb4TMoM_p).
+
 
 ## Responsibilities
 
@@ -554,7 +561,7 @@ Java Android and C# WinPhone. More about [beacon BLE technology](https://kontakt
 
 ## Skills
 
-**Languages:** <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeScript, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java, <span class="iconify" data-icon="vscode-icons:file-type-csharp2"></span> C#, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript, <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="logos:php"></span> PHP, <span class="iconify" data-icon="vscode-icons:file-type-go"></span> Golang, <span class="iconify" data-icon="vscode-icons:file-type-html"></span> HTML, <span class="iconify" data-icon="vscode-icons:file-type-css"></span> CSS, <span class="iconify" data-icon="vscode-icons:file-type-scss"></span> SCSS, <span class="iconify" data-icon="vscode-icons:file-type-less"></span> LESS, <span class="iconify" data-icon="vscode-icons:file-type-postcss"></span> PostCSS, <span class="iconify" data-icon="vscode-icons:file-type-glsl"></span> GLSL, <span class="iconify" data-icon="vscode-icons:file-type-c"></span> C, <span class="iconify" data-icon="vscode-icons:file-type-verilog"></span> Verilog, <span class="iconify" data-icon="vscode-icons:file-type-vhdl"></span> VHDL
+**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeScript, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java, <span class="iconify" data-icon="vscode-icons:file-type-csharp2"></span> C#, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript, <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="logos:php"></span> PHP, <span class="iconify" data-icon="vscode-icons:file-type-go"></span> Golang, <span class="iconify" data-icon="vscode-icons:file-type-html"></span> HTML, <span class="iconify" data-icon="vscode-icons:file-type-css"></span> CSS, <span class="iconify" data-icon="vscode-icons:file-type-scss"></span> SCSS, <span class="iconify" data-icon="vscode-icons:file-type-less"></span> LESS, <span class="iconify" data-icon="vscode-icons:file-type-postcss"></span> PostCSS, <span class="iconify" data-icon="vscode-icons:file-type-glsl"></span> GLSL, <span class="iconify" data-icon="vscode-icons:file-type-c"></span> C, <span class="iconify" data-icon="vscode-icons:file-type-verilog"></span> Verilog, <span class="iconify" data-icon="vscode-icons:file-type-vhdl"></span> VHDL
 
 **Rest:** <span class="iconify" data-icon="vscode-icons:file-type-vue"></span> Vue 1-3, <span class="iconify" data-icon="vscode-icons:file-type-reactjs"></span> React, <span class="iconify" data-icon="vscode-icons:file-type-angular"></span> Angular, Three.js, D3, WebGL, Tailwind CSS, Bootstrap, SemanticUI, ElementUI, AntUI, styled-components, Redux, MobX, Vuex, Rx, BEM, d3-quad-tree, Knockout, Bower, RequireJS, NHibernate, jQuery, Photoshop, Illustrator, Node.js, Spring Framework, Laravel, NestJS, Express, TypeORM, Digital Signatures, AgGrid, WebSockets, Workers
 
@@ -564,7 +571,7 @@ Java Android and C# WinPhone. More about [beacon BLE technology](https://kontakt
 
 **Blockchain:** Cryptography, Web3, Ethereum, VeChain, Cosmos, Polkadot, Tron, Zilliqa
 
-**Dev tools:** <span class="iconify" data-icon="vscode-icons:file-type-storybook"></span> Storybook, <span class="iconify" data-icon="vscode-icons:file-type-lerna"></span> Lerna, <span class="iconify" data-icon="vscode-icons:file-type-turbo"></span> Turbopack, <span class="iconify" data-icon="vscode-icons:file-type-nx"></span> Nx, <span class="iconify" data-icon="vscode-icons:file-type-webpack"></span> Webpack, <span class="iconify" data-icon="vscode-icons:file-type-babel"></span> Babel, <span class="iconify" data-icon="vscode-icons:file-type-rollup"></span> Rollup, <span class="iconify" data-icon="vscode-icons:file-type-gulp"></span> Gulp, <span class="iconify" data-icon="vscode-icons:file-type-eslint"></span> ESLint, <span class="iconify" data-icon="vscode-icons:file-type-tslint"></span> TSLint,<span class="iconify" data-icon="vscode-icons:file-type-prettier"></span> Prettier, <span class="iconify" data-icon="vscode-icons:file-type-mocha"></span> Mocha, <span class="iconify" data-icon="vscode-icons:file-type-jest"></span>Jest, <span class="iconify" data-icon="vscode-icons:file-type-vite"></span>Vite, <span class="iconify" data-icon="vscode-icons:file-type-vitest"></span>Vitest
+**Dev tools:** <span class="iconify" data-icon="vscode-icons:file-type-storybook"></span> Storybook, <span class="iconify" data-icon="vscode-icons:file-type-lerna"></span> Lerna, <span class="iconify" data-icon="vscode-icons:file-type-turbo"></span> Turbopack, <span class="iconify" data-icon="vscode-icons:file-type-nx"></span> Nx, <span class="iconify" data-icon="vscode-icons:file-type-webpack"></span> Webpack, <span class="iconify" data-icon="vscode-icons:file-type-babel"></span> Babel, <span class="iconify" data-icon="vscode-icons:file-type-rollup"></span> Rollup, <span class="iconify" data-icon="vscode-icons:file-type-gulp"></span> Gulp, <span class="iconify" data-icon="vscode-icons:file-type-eslint"></span> ESLint, <span class="iconify" data-icon="vscode-icons:file-type-tslint"></span> TSLint, <span class="iconify" data-icon="vscode-icons:file-type-prettier"></span> Prettier, <span class="iconify" data-icon="vscode-icons:file-type-mocha"></span> Mocha, <span class="iconify" data-icon="vscode-icons:file-type-jest"></span> Jest, <span class="iconify" data-icon="vscode-icons:file-type-vite"></span> Vite, <span class="iconify" data-icon="vscode-icons:file-type-vitest"></span> Vitest
 
 **Tools:** Jira, YouTrack, Trello, GitLab, Confluence, Maven
 
