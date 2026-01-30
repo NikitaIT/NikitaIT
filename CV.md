@@ -17,7 +17,7 @@ header:
 
 ## Summary
 
-Product-focused CTO with 10+ years of experience leading infrastructure for hyper-growth startups and builder myself. To the left of the heart is [DDD](https://github.com/ddd-crew), and to the right is [IDesign](https://www.idesign.net/).
+Product-focused CTO with 10+ years of experience leading infrastructure for hyper-growth startups and a builder myself. To the left of the heart is [DDD](https://github.com/ddd-crew), and to the right is [IDesign](https://www.idesign.net/).
 
 ## Education
 
@@ -118,7 +118,7 @@ Where I learned what good looks like — mature Scrum, DDD, user interviews and 
 ~ [Upwork](https://www.upwork.com/)
 ~ 09/2015 - 08/2017
 
-- Wrote custom software solutions including bachelor's dissertations in programming
+- Wrote custom software solutions, including bachelor's dissertations in programming
 - Created **10-15 websites**
 
 **Physics Tutor**
@@ -155,13 +155,13 @@ Developed an application for cross-publishing for conferences:
 ~ [Pinkman Design Studio](https://pinkman.ru/)
 ~ 2021
 
-- Helped senior developer secure a leading position through pair programming
+- Helped a senior developer secure a leading position through pair programming
 - Technologies: Vue, Nuxt, TypeScript
 
 **Backend Consulting**
 ~ 2020
 
-- Provided consulting for mobile document management application backend
+- Provided consulting for the mobile document management application backend
 - Technologies: NestJS, MongoDB, TypeScript
 
 
@@ -478,7 +478,7 @@ Open Source Intelligence. Closest analogue: [Palantir](https://www.palantir.com/
 ~ [Homework](https://homework.ru)
 ~ 08/2017 - 09/2018
 
-Domain driven design, LEARN(Agile). Interacted with all employees of the company, different departments.
+Domain-driven design, LEARN(Agile). Interacted with all employees of the company, different departments.
 
 - DDD, C#, MSSQL, NHibernate
 - ECMAScript 5, jQuery, HTML, SCSS
@@ -527,7 +527,7 @@ Java Android and C# WinPhone. More about [beacon BLE technology](https://kontakt
 **API & Integration Architecture**
 
 - Generation and analysis of [OpenAPI](https://www.openapis.org/) REST interfaces and MQ for service communication transparency
-- Idempotency of all requests with request inbox pattern: POST always 200 and edit lock if 500 like in [AWS client token](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Run_Instance_Idempotency.html#client-tokens) and [Stripe Idempotency-Key](https://stripe.com/docs/api/idempotent_requests). Versioned or fingerprinted GET like in [Google Cloud](https://cloud.google.com/compute/docs/reference/rest/v1/instances/setTags). [Soft DELETE](https://stackoverflow.com/questions/2549839/are-soft-deletes-a-good-idea) with 200 in short time window
+- Idempotency of all requests with request inbox pattern: POST always 200 and edit lock if 500, like in [AWS client token](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Run_Instance_Idempotency.html#client-tokens) and [Stripe Idempotency-Key](https://stripe.com/docs/api/idempotent_requests). Versioned or fingerprinted GET like in [Google Cloud](https://cloud.google.com/compute/docs/reference/rest/v1/instances/setTags). [Soft DELETE](https://stackoverflow.com/questions/2549839/are-soft-deletes-a-good-idea) with 200 in short time window
 - Integration events idempotency from "at least once delivery" to "at most once delivery" with transaction outbox pattern
 
 **Security**
@@ -544,7 +544,7 @@ Java Android and C# WinPhone. More about [beacon BLE technology](https://kontakt
 
 **Front-end Architecture**
 
-- Compliance with boundaries of reuse of packages between domains
+- Compliance with the boundaries of reuse of packages between domains
 - Reducing the number of open connections to the backend
 - First page load time optimization
 - Offline support
